@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>g</string>
+			<key>ModifiedRange</key>
+			<string>{980, 1}</string>
+			<key>OriginalContent</key>
+			<string>o</string>
+			<key>OriginalRange</key>
+			<string>{980, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ee</string>
+			<key>ModifiedRange</key>
+			<string>{982, 2}</string>
+			<key>OriginalContent</key>
+			<string>a</string>
+			<key>OriginalRange</key>
+			<string>{982, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{985, 0}</string>
+			<key>OriginalContent</key>
+			<string>ge</string>
+			<key>OriginalRange</key>
+			<string>{984, 2}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/RealNumbers.playgroundpage/main.swift</string>
+</dict>
+</plist>
