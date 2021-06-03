@@ -6,20 +6,18 @@
                             
 An interactive book that shows the figures that are generated when times tables are drawn inside a circle. This project was approved in the WWDC21 Swift Student Challenge.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/mxcKCIO" data-context="false" ><a href="//imgur.com/a/mxcKCIO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <p align='center'>
-  <img alt='printScreen1' src='https://imgur.com/BOM3GL9'/>
+  <img alt='printScreen1' src='https://imgur.com/BOM3GL9.png'/>
 </p>
 
 <p align='center'>
-  <img alt='printScreen2' src='https://imgur.com/wPb2E1B'/>
+  <img alt='printScreen2' src='https://imgur.com/wPb2E1B.png'/>
 </p>
 
 <p align='center'>
-  <img alt='printScreen3' src='https://imgur.com/siuHhZt'/>
+  <img alt='printScreen3' src='https://imgur.com/siuHhZt.png'/>
 </p>
 
 <p align='center'>
-  <img alt='printScreen4' src='https://imgur.com/UpJuwqo'/>
+  <img alt='printScreen4' src='https://imgur.com/UpJuwqo.png'/>
 </p>
